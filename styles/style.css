@@ -96,6 +96,9 @@ body{
     }
 }
 @media(max-width:400px){
+	.cMail p {
+		font-size: 1em;
+	}
     .section{
         margin: 2em 0;
     }
